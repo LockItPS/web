@@ -1,4 +1,4 @@
-# web
+# LockIt!
 
 ## Project setup
 ```
